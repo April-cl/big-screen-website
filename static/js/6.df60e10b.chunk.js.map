@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/about/index.tsx"],"names":["About"],"mappings":"gHAAA,+DAEe,SAASA,IACtB,OACE","file":"static/js/6.df60e10b.chunk.js","sourcesContent":["import React from 'react'\n\nexport default function About () {\n  return (\n    <div>\n      about\n    </div>\n  )\n}"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(this["webpackJsonpbig-screen"]=this["webpackJsonpbig-screen"]||[]).push([[6],{175:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return i}));t(0);var c=t(5);function i(){return Object(c.jsx)("div",{children:"about"})}}}]);
+//# sourceMappingURL=6.df60e10b.chunk.js.map
